@@ -1,0 +1,11 @@
+C:\Users\usimjafarz\howto-derive-macros\my_macros\target\debug\deps\libquote-05052ca651d7b0a5.rmeta: C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\lib.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ext.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\format.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ident_fragment.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\to_tokens.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\runtime.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\spanned.rs
+
+C:\Users\usimjafarz\howto-derive-macros\my_macros\target\debug\deps\quote-05052ca651d7b0a5.d: C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\lib.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ext.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\format.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ident_fragment.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\to_tokens.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\runtime.rs C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\spanned.rs
+
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\lib.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ext.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\format.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\ident_fragment.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\to_tokens.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\runtime.rs:
+C:\Users\usimjafarz\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\quote-1.0.39\src\spanned.rs:
